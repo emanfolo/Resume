@@ -54,25 +54,6 @@ Image storage via AWS S3 bucket
 |  <img src="https://www.braveterry.com/wp-content/uploads/2015/01/capybara.jpg" height="auto" width="60">   | [Capybara](https://github.com/teamcapybara/capybara) | Acceptance test framework for Ruby. | Feature testing for the app. |
 
 
-### Gems
-
-|       | Gem                                                                | Use?                                                                   |
-| :---: | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
-| :gem: | [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) | Extends the matchers of Rspec.                                         |
-| :gem: | [awesome_print](https://github.com/awesome-print/awesome_print)    | One of our favourite gems; pretty prints output from the Rails console. |
-| :gem: | [bcrypt](https://github.com/bcrypt-ruby/bcrypt-ruby)    | Ruby password hashing to secure user passwords. |
-| :gem: | [carrierwave](https://github.com/carrierwaveuploader/carrierwave)    | File upload solution for Rails in tandem with AWS S3. |
-
-
-## Assignment
-
-Create a clone of Facebook with Ruby on Rails.
-Users can:
-* Sign Up
-* Sign In
-* Like and Comment on Posts
-* Have new likes and comments refresh without reloading the page.
-
 ### Team
 
 
