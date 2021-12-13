@@ -6,8 +6,12 @@ Recipe and mealplan web-app which provides tailored mealplans based on users nut
 In a team of three we built a fully functioning site with several features in the space of 10 days with a new tech stack
 Github authorisation sign-in using Passport.js
 
-### Technologies used 
+### [Live Site](https://mealstack.netlify.app/)
 
+### [Front end repo](https://github.com/ConorButler/mealstack-frontend)
+### [Back end repo](https://github.com/emanfolo/mealstack-backend)
+
+### Technologies used 
 
 ```
 - React, Javascript, CSS, HTML, Chakra UI
@@ -17,6 +21,10 @@ Github authorisation sign-in using Passport.js
 
 ```
 
+### Made by:
+
+### Emmanuel [@emanfolo](https://github.com/emanfolo) &nbsp;&middot;&nbsp; Conor [@ConorButler](https://github.com/conorbutler) &nbsp;&middot;&nbsp; Doug [@dpkerins](https://github.com/dpkerins)
+
 ## Acebook 
 
 Fullstack Facebook clone built in 10 days with core functionalities of Facebook
@@ -24,7 +32,7 @@ Authentication, password encryption, protective routing
 Relational database, managed via ActiveStorage ORM
 Image storage via AWS S3 bucket
 
-[Live site](hidden-everglades-40298.herokuapp.com/)
+[Live Site](http://hidden-everglades-40298.herokuapp.com/)
 
 ### Features
 - [x] User authentication (from scratch)
