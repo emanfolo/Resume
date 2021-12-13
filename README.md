@@ -8,8 +8,8 @@ Github authorisation sign-in using Passport.js
 
 ### [Live Site](https://mealstack.netlify.app/)
 
-### [Front end repo](https://github.com/ConorButler/mealstack-frontend)
-### [Back end repo](https://github.com/emanfolo/mealstack-backend)
+### [Front end repository](https://github.com/ConorButler/mealstack-frontend)
+### [Back end repository](https://github.com/emanfolo/mealstack-backend)
 
 ### Technologies used 
 
@@ -32,7 +32,7 @@ Authentication, password encryption, protective routing
 Relational database, managed via ActiveStorage ORM
 Image storage via AWS S3 bucket
 
-[Live Site](http://hidden-everglades-40298.herokuapp.com/)
+### [Live Site](http://hidden-everglades-40298.herokuapp.com/)
 
 ### Features
 - [x] User authentication (from scratch)
