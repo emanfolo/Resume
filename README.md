@@ -23,3 +23,11 @@ Fullstack Facebook clone built in 10 days with core functionalities of Facebook
 Authentication, password encryption, protective routing
 Relational database, managed via ActiveStorage ORM
 Image storage via AWS S3 bucket
+
+## Features
+- [x] User authentication (from scratch)
+- [x] User can upload a profile picture
+- [x] User can attach a picture to a post
+- [x] User can like on a post
+- [x] User can comment on a post
+- [x] Likes & comments do not refresh the page
