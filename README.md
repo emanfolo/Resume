@@ -24,7 +24,7 @@ Authentication, password encryption, protective routing
 Relational database, managed via ActiveStorage ORM
 Image storage via AWS S3 bucket
 
-## Features
+### Features
 - [x] User authentication (from scratch)
 - [x] User can upload a profile picture
 - [x] User can attach a picture to a post
